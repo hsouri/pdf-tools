@@ -3,7 +3,7 @@ import sys
 
 
 '''
-    usage: python splitpdf.py [input-pdf-path] [frpm-page] [to-page]
+    usage: python splitpdf.py [input-pdf-path] [from-page] [to-page]
     example: python splitpdf.py ./sample.pdf 2 5
 
 
